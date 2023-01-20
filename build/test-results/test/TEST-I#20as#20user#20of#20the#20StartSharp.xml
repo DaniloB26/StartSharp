@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="I as user of the StartSharp" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-20T17:05:09" hostname="DESKTOP-5BKDNV6" time="20.709">
+  <properties/>
+  <testcase name="Successful  password change" classname="I as user of the StartSharp" time="20.709"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ene 20, 2023 12:05:10 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 25993
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1674234313.371][WARNING]: This version of ChromeDriver has not been tested with Chrome version 109.
+ene 20, 2023 12:05:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
